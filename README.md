@@ -1,8 +1,11 @@
 # 区块链工程师路线 中文翻译<br>
 区块链工程师学习路线。
 <br>
+<br>
 翻译自[Develop Roadmap](https://roadmap.sh)项目的 区块链工程师([Blockchain Developer](https://roadmap.sh/blockchain)) 部分。<br>
+<br>
 该翻译项目目前有有pdf、word文档，opml、HTML文本，png思维导图图片，Freemind思维导图 形式文件。<br>
+<br>
 个人翻译项目，制作不易，欢迎star支持👏
 <br>
 <br>
