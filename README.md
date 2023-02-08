@@ -4,7 +4,7 @@
 <br>
 翻译自[Develop Roadmap](https://roadmap.sh)项目的 区块链工程师([Blockchain Developer](https://roadmap.sh/blockchain)) 部分。<br>
 <br>
-该翻译项目目前有pdf、word文档，opml、HTML文本，png思维导图图片，Freemind思维导图 文件。<br>
+该翻译项目目前有pdf、word文档，opml、HTML文本，png思维导图图片（链接不可跳转），Freemind思维导图 文件。<br>
 <br>
 个人翻译项目，制作不易，欢迎star支持👏
 <br>
@@ -19,7 +19,7 @@
 
     2023/02/07 完成 基本的区块链知识 部分
     2023/02/08 完成 区块链常识 部分
-               修改 将所有外链指向 加入翻译前的英语标识
+               修改 将所有外链指向 加入翻译前的英语标识 之中
                一次校对 修改
                完成 区块链系统 部分
                优化文档排版
