@@ -47,9 +47,6 @@
 <br>
 <br>
      
-点此下载：
-[区块链工程师学习路线.pdf](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/files/10684006/default.pdf)
-   
+点此下载最新版：[区块链工程师学习路线.pdf](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/files/10695183/default.pdf)   
                 
-    
 ### 赞助我：0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb
