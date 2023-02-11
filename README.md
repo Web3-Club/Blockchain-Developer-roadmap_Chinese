@@ -66,7 +66,8 @@
                     🆗2023年2月11日 19:15 (UTC +08:00) 完成全文翻译
                     
                     
-                    🔧issues#2修复 
+                    🔧修复 issues#2【勘误】加密货币的描述有误 https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/issues/2 删除其中的
+                      多余的词汇
 
  
                   
