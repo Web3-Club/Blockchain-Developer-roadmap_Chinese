@@ -89,11 +89,27 @@
 <br>               
 <br>
 <br>
-                     
 ### 项目开发：[烟波](https://github.com/yanboishere) <br>
 
-### 赞助我：0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb
+### 赞助我：0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb 或 [微信支付](https://yanbo.tech/post/support/)
 
-### [微信支付](https://yanbo.tech/post/support/)
+
+
+
+
+## 申请加入中国Web3社区
+发邮件到web3club@email.cn，回答以下问题：
+<br>
+1.发送你的联系方式（微信、Telegram）
+<br>
+2.加入理由
+<br>
+3.对Web3相关技术未来的个人期望？
+<br>
+4.个人技术栈有哪些？
+<br>
+5.是否有在社区和项目做贡献的经历？
+<br>
+以上
 
 
