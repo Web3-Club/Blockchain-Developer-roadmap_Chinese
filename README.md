@@ -105,7 +105,7 @@
 发邮件到web3club@email.cn，回答以下问题：
 <br>
 <br>
-1.发送你的联系方式（微信、Telegram）
+1.发送你的联系方式（微信、Telegram），GitHub主页链接。
 <br>
 <br>
 2.加入理由
