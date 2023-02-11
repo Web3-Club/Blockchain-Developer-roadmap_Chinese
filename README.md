@@ -2,7 +2,7 @@
 区块链工程师学习路线。
 <br>
 <br>
-翻译自 [全GitHub所有项目中Star数排名第六位](https://github.com/search?q=stars%3A%3E200000&type=Repositories) 的[Develop Roadmap](https://roadmap.sh)项目的 区块链工程师([Blockchain Developer](https://roadmap.sh/blockchain)) 部分。<br>
+该项目的思维导图和文档 翻译自 [全GitHub所有项目中Star数排名第六位](https://github.com/search?q=stars%3A%3E200000&type=Repositories) 的[Develop Roadmap](https://roadmap.sh)项目的 区块链工程师([Blockchain Developer](https://roadmap.sh/blockchain)) 部分。<br>
 <br>
 该翻译项目目前有pdf、word文档，opml、HTML文本，png思维导图图片（链接不可跳转），Freemind思维导图 文件。<br>
 <br>
