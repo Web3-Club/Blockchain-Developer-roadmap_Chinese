@@ -12,7 +12,7 @@
 <br>
 
 ## 图片预览
-<img width="318" alt="截屏2023-02-11 下午8 20 32" src="https://user-images.githubusercontent.com/76860915/218260300-f4bd7b9c-bfe1-49d1-b2c8-7381a73f2b4b.png">
+
 
 更新时间表：
 
