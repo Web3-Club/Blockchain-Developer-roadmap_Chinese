@@ -64,10 +64,12 @@
                     ✅完成 建设scale 翻译
                     
                     🆗2023年2月11日 19:15 (UTC +08:00) 完成全文翻译
- 
+                    
+                    
+                    🔧[#2](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/issues/2)
 
  
-                    ......
+                  
 
 
 <br>               
