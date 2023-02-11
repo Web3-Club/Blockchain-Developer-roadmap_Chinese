@@ -11,6 +11,9 @@
 <br>
 <br>
 <br>
+## 翻译文档部分预览
+<img width="671" alt="截屏2023-02-11 下午9 32 03" src="https://user-images.githubusercontent.com/76860915/218260751-62f19ce3-73b6-4a2e-b1e2-fa96c411fcc0.png">
+
 ## 下载
 欲下载学习路线相关文件，请跳转至[releases](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/releases/tag/newest)
 
