@@ -1,4 +1,9 @@
+# 感谢 Telegram用户 antoniayly 赞助该项目 0.5ETH
+
+
+
 # 区块链工程师路线 中文翻译<br>
+
 ## 项目简介
 区块链工程师学习路线 简体中文翻译。
 <br>
@@ -102,8 +107,6 @@
 ### 项目开发：[烟波](https://github.com/yanboishere) <br>
 
 ### 赞助我：0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb 或 [微信支付](https://yanbo.tech/post/support/)
-
-# 感谢 Telegram用户 antoniayly 赞助该项目 0.5ETH
 
 
 
