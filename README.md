@@ -1,4 +1,4 @@
-# 感谢 Telegram用户 antoniayly 赞助该项目 0.5ETH
+# 感谢 [antoniayly](https://twitter.com/antoniayly?s=21&t=QNardCn2PREdALePyTc2Jw) 赞助该项目 0.5ETH
 
 
 
