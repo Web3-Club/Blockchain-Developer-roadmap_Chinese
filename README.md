@@ -1,8 +1,4 @@
-# 感谢 [antoniayly](https://twitter.com/antoniayly?s=21&t=QNardCn2PREdALePyTc2Jw) 对该项目的赞助
-
-
-
-## 区块链工程师路线 中文翻译<br>
+# 区块链工程师路线 中文翻译<br>
 
 ## 项目简介
 区块链工程师学习路线 简体中文翻译。
@@ -134,3 +130,4 @@
 以上
 
 
+# 感谢 [antoniayly](https://twitter.com/antoniayly?s=21&t=QNardCn2PREdALePyTc2Jw) 对该项目的赞助
