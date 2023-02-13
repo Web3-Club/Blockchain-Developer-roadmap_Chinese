@@ -24,7 +24,7 @@
 
 
 ## 下载
-欲下载学习路线相关文件，请跳转至[releases](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/releases/tag/newest)
+欲下载学习路线相关文件，请点击并跳转至[releases](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/releases/tag/newest)
 
 
 ## 更新时间表
