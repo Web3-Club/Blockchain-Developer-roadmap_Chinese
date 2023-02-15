@@ -119,7 +119,8 @@
 <br>
 <br>
 <br>
-## 申请加入中国Web3社区
+
+### 申请加入中国Web3社区
 发邮件到web3club@email.cn，回答以下问题：
 <br>
 <br>
