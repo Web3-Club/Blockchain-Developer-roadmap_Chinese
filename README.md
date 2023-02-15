@@ -115,12 +115,12 @@
 
 ### 项目开发：[烟波](https://github.com/yanboishere) <br>
 
-### 赞助我：0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb 或 [微信支付](https://yanbo.tech/post/support/)
+## 赞助我：0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb 或 [微信支付](https://yanbo.tech/post/support/)
 <br>
 <br>
 <br>
 
-### 申请加入中国Web3社区
+## 申请加入中国Web3社区
 发邮件到web3club@email.cn，回答以下问题：
 <br>
 <br>
