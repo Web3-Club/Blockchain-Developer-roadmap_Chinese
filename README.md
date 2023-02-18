@@ -1,5 +1,3 @@
-# 感谢 [antoniayly](https://twitter.com/antoniayly?s=21&t=QNardCn2PREdALePyTc2Jw) —— [abetterweb3](https://abetterweb3.notion.site/) 项目贡献者 对本项目的赞助
-
 # 区块链工程师路线 中文翻译<br>
 
 ## 项目简介
