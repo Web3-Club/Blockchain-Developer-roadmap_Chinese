@@ -117,7 +117,7 @@
 
 ### 项目开发：[烟波](https://github.com/yanboishere) <br>
 
-## 赞助我：0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb (ETH) 或 [微信支付](https://yanbo.tech/post/support/)
+## 赞助我们：0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb (ETH) 或 [微信支付](https://yanbo.tech/post/support/)
 当您的赞助得到我们的确认后，您的姓名或昵称将出现在 [赞助榜](https://github.com/Web3-Club/Sponsor) 界面 上。
 <br>
 **感谢您对我们社区未来健康发展所作出的贡献！**
