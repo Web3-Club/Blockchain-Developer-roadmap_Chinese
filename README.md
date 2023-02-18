@@ -121,7 +121,7 @@
 当您的赞助得到我们的确认后，您的姓名或昵称将出现在 [赞助榜](https://github.com/Web3-Club/Sponsor) 界面 上。
 <br>
 <br>
-**感谢您对我们社区未来健康发展所作出的贡献！**
+**感谢您对我们社区未来健康发展所作出的支持！**
 <br>
 
 ## 申请加入[中国Web3社区](https://github.com/Web3-Club/Intro./blob/main/README.md)
