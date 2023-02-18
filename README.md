@@ -123,6 +123,9 @@
 <br>
 <br>
 <br>
+# 致谢
+## 感谢 [antoniayly](https://twitter.com/antoniayly?s=21&t=QNardCn2PREdALePyTc2Jw) —— [abetterweb3](https://abetterweb3.notion.site/) 项目贡献者 对本项目的赞助
+
 
 ## 申请加入[中国Web3社区](https://github.com/Web3-Club/Intro./blob/main/README.md)
 发邮件到web3club@email.cn，回答以下问题：
@@ -148,7 +151,5 @@
 <br>
 <br>
 <br>
-# 致谢
-## 感谢 [antoniayly](https://twitter.com/antoniayly?s=21&t=QNardCn2PREdALePyTc2Jw) —— [abetterweb3](https://abetterweb3.notion.site/) 项目贡献者 对本项目的赞助
 
 以上
