@@ -1,9 +1,9 @@
 # 区块链工程师路线 中文翻译<br>
 
 # [网页版](https://web3wiki.site/) (正在建设中......)
-## **项目链接：[Web3-Club](https://github.com/Web3-Club/Web3wiki-Website)**
+## **网页版项目链接：[Web3-Club](https://github.com/Web3-Club/Web3wiki-Website)**
 
-## 项目简介
+### 项目简介
 区块链工程师学习路线 中文翻译。
 <br>
 <br>
@@ -15,25 +15,25 @@
 <br>
 <br>
 <br>
-## 部分预览
-### 文档
+### 部分预览
+#### 文档
 <br>
 <img width="671" alt="截屏2023-02-11 下午9 32 03" src="https://user-images.githubusercontent.com/76860915/218260751-62f19ce3-73b6-4a2e-b1e2-fa96c411fcc0.png">
 
 
 
-### 思维导图
+#### 思维导图
 <img width="891" alt="截屏2023-02-11 下午9 37 17" src="https://user-images.githubusercontent.com/76860915/218261080-6aa37761-016a-42a4-95ec-190485630264.png">
 
 
-## 下载
+### 下载
 欲下载学习路线相关文件，请点击并跳转至 **[releases](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/releases/tag/newest)**
 <br>
 <br>
 **（文件名 Chinese.simple 前缀为简体，Chinese.traditional前缀为繁体。）**
 
 
-## 更新时间表
+### 更新时间表
 
     2023/02/07      ✅完成 基本的区块链知识 部分 翻译
    
@@ -100,7 +100,7 @@
      
      
 
-## 计划
+### 计划
  - [ ] pdf 增加目录 （感谢 [Jface](https://github.com/Jface001) 的建议）
  - [ ] 视频版 (正在筹划中......)
  - [ ] markdown版 
@@ -108,19 +108,19 @@
 <br>
 <br>
  
-## 报错 或 意见建议          
+### 报错 或 意见建议          
 请到[issues](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/issues)处提出。
 
 <br>               
 <br>
 
-## 项目开发
-### [烟波](https://github.com/yanboishere)
+### 项目开发
+#### [烟波](https://github.com/yanboishere)
 <br>
 <br>
 
-## 赞助我们
-### 0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb (ETH) 或 [微信支付](https://yanbo.tech/post/support/)
+### 赞助我们
+#### 0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb (ETH) 或 [微信支付](https://yanbo.tech/post/support/)
 当您的赞助得到我们的确认后，您的姓名或昵称将出现在 [赞助榜](https://github.com/Web3-Club/Sponsor) 界面 上。
 <br>
 <br>
@@ -128,13 +128,13 @@
 <br>
 <br>
 <br>
-# 致谢
-## 感谢 [antoniayly](https://twitter.com/antoniayly?s=21&t=QNardCn2PREdALePyTc2Jw) —— [abetterweb3](https://abetterweb3.notion.site/) 项目贡献者 对本项目的赞助
+## 致谢
+### 感谢 [antoniayly](https://twitter.com/antoniayly?s=21&t=QNardCn2PREdALePyTc2Jw) —— [abetterweb3](https://abetterweb3.notion.site/) 项目贡献者 对本项目的赞助
 <br>
 <br>
 
-# LICENCE
-## [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+## LICENCE
+### [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 
 
@@ -148,7 +148,7 @@
 
 
 
-## 申请加入[中国Web3社区](https://github.com/Web3-Club/Intro./blob/main/README.md)
+### 申请加入[中国Web3社区](https://github.com/Web3-Club/Intro./blob/main/README.md)
 发邮件到web3club@email.cn，回答以下问题：
 <br>
 <br>
