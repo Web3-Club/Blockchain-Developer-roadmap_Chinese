@@ -1,7 +1,7 @@
 # 区块链工程师路线 中文翻译<br>
 
 ## [网页版](https://web3wiki.site/) (正在建设中......)
-** 项目链接：[Web3-Club](https://github.com/Web3-Club/Web3wiki-Website) **
+**项目链接：[Web3-Club](https://github.com/Web3-Club/Web3wiki-Website)**
 
 ## 项目简介
 区块链工程师学习路线 中文翻译。
