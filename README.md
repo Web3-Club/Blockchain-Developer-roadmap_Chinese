@@ -129,6 +129,9 @@
 <br>
 <br>
 
+### LICENCE
+[CC](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
 ## 申请加入[中国Web3社区](https://github.com/Web3-Club/Intro./blob/main/README.md)
 发邮件到web3club@email.cn，回答以下问题：
 <br>
