@@ -144,42 +144,9 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 # 申请加入[中国Web3社区](https://github.com/Web3-Club/Intro./blob/main/README.md)
-发邮件到web3club@email.cn，回答以下问题：
-<br>
-<br>
-1.发送你的联系方式（微信、Telegram），GitHub主页链接。
-<br>
-<br>
-2.加入理由
-<br>
-<br>
-3.对Web3相关技术未来的个人期望？
-<br>
-<br>
-4.个人技术栈有哪些？其掌握的熟练程度为？
-<br>
-<br>
-5.是否有在社区和项目做贡献的经历？
-<br>
-<br>
-<br>
-（字数不限，表述清楚并全部回答 即可）
-<br>
-<br>
-<br>
-
-以上
-<br>
+详见 申请加入我们
 
 **Copyright © 2023 China Web3-Club｜中国Web3社区**
 
