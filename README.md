@@ -8,7 +8,7 @@
 
 <br>
 
-# 特别感谢我们的Premium Sponser
+# 特别感谢我们的[Premium Sponser](https://github.com/Web3-Club/Sponsor/blob/main/Premium%20sponsors.md)
 <img width="640" alt="截屏2023-02-20 下午10 23 59" src="https://user-images.githubusercontent.com/76860915/220133607-dddc3468-0cda-4065-bce3-3b275dfe6ad1.png">
 
 
