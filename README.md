@@ -150,5 +150,5 @@
 详见 [申请加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md)
 
 
-**Built by China Web3-Club contributors with heart.**
+**Built by China Web3-Club contributors with heart.**<br>
 **Copyright © 2023 China Web3-Club｜中国Web3社区**
