@@ -27,12 +27,12 @@
 <br>
 ### 部分预览
 #### 文档
-<br>
 <img width="671" alt="截屏2023-02-11 下午9 32 03" src="https://user-images.githubusercontent.com/76860915/218260751-62f19ce3-73b6-4a2e-b1e2-fa96c411fcc0.png">
 
 
 
 #### 思维导图
+
 <img width="891" alt="截屏2023-02-11 下午9 37 17" src="https://user-images.githubusercontent.com/76860915/218261080-6aa37761-016a-42a4-95ec-190485630264.png">
 
 
