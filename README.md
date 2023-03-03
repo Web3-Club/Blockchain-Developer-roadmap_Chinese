@@ -4,7 +4,7 @@
 <br>
 
 ## [网页版](https://web3wiki.site/) (正在建设中......)
-### **网页版项目链接：[Web3-Club](https://github.com/Web3-Club/Web3wiki-Website)**
+### **网页版项目链接：[Web3-Wiki](https://github.com/Web3-Club/Web3wiki-Website)**
 
 <br>
 
