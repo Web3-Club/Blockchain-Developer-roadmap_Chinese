@@ -114,7 +114,7 @@
 ### 计划
  - [ ] pdf 增加目录 （感谢 [Jface](https://github.com/Jface001) 的建议）
  - [ ] 视频版 (正在筹划中......)
- - [ ] markdown版 
+ - [ ] markdown版 可见[web3wikidocs](https://github.com/Web3-Club/Web3wiki-Website/tree/main/web3wiki_mkdocs/docs) 
  - [ ] 网页wiki版 （正在搭建中）[web3wiki.site](https://web3wiki.site/)
 <br>
 <br>
