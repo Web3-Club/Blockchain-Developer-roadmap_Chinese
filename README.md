@@ -122,9 +122,9 @@
 如若您有英语-简体中文 翻译能力，欢迎直接发信！
 
 ## ❤️ 项目贡献者
-永远感谢他们为本项目所作出的贡献！
-[![contrib graph](https://contrib.rocks/image?repo=Web3-Club/Blockchain-Developer-roadmap_Chinese)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/graphs/contributors)
-  
+
+[![contrib graph](https://contrib.rocks/image?repo=Web3-Club/Blockchain-Developer-roadmap_Chinese)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/graphs/contributors)  
+永远感谢他们为本项目所作出的贡献！  
 
 ## 💐 赞助我们 
 🪙 BTC：  ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
@@ -135,7 +135,10 @@
 特别感谢我们的[Premium Sponser](https://github.com/Web3-Club/Sponsor/blob/main/Premium%20sponsors.md)
 
 <a href="https://abetterweb3.notion.site"><img src="https://user-images.githubusercontent.com/76860915/220133607-dddc3468-0cda-4065-bce3-3b275dfe6ad1.png" alt="abetterweb3">
+ 
 ## 📖 LICENCE
-[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)<br>
 Built by China Web3-Club [contributors](https://github.com/Web3-Club/Web3wiki-Website#%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E8%80%85) with heart.  
 Blockchain Developer | Develop Roadmap &emsp;Copyright © roadmap.sh  
+Chinese Translation copyright © 2023 &emsp; China Web3-Club｜中国Web3社区  
+ALL RIGHT RESERVED  
