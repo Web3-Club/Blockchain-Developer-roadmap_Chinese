@@ -127,7 +127,7 @@
 永远感谢他们为本项目所作出的贡献！  
 
 ## 💐 赞助我们 
-🪙 BTC：  ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
+🪙 ETH：  ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
 
 您的姓名或昵称将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。
 感谢您对我们社区未来健康发展所作出的支持！
