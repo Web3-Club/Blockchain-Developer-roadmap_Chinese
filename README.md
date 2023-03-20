@@ -145,7 +145,7 @@ All translations of the project were developed by members and contributors to th
 
 We always open source the original open source project in accordance with the license of the original open source project before translation.And in accordance with the requirements of the licence,the information of the original English project or the original author will be indicated in the following sections.
 
-If you have any questions about this, please read the LICENCE section below.
+If you have any questions about licence or copyright, please read the LICENCE section below or contact us at web3club@email.cn 
 
  
 ## 📖 LICENCE
