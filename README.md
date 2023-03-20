@@ -6,7 +6,7 @@
 区块链工程师学习路线中文翻译，该项目的思维导图和文档翻译自<br>
 [全GitHub所有项目中Star数排名](https://github.com/search?q=stars%3A%3E200000&type=Repositories)第六位的[Develop Roadmap](https://roadmap.sh)项目的区块链工程师([Blockchain Developer](https://roadmap.sh/blockchain)) 部分。
 
-该翻译项目目前有PDF、HTML、OPML、PNG、FreeMind等格式文档
+该翻译项目目前有PDF、HTML、PNG、OPML、FreeMind等格式文档
 
 个人翻译项目，制作不易，欢迎star支持👏
 
