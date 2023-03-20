@@ -139,7 +139,7 @@
 
 # ⚠️ 免责声明
 
-The organization that developed this object, "Web3Club", is currently a non-profit open source community, not a company or corporationand.
+The organization that developed this project, "Web3Club", is currently a non-profit open source community, not a company or corporationand.
 
 All translations of the project were developed by members and contributors to the project, and any content in the project is protected by an open source licence.
 
