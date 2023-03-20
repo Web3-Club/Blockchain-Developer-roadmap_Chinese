@@ -143,6 +143,8 @@ The organization that developed this project, "Web3Club", is currently a non-pro
 
 All translations of the project were developed by members and contributors to the project, and any content in the project is protected by an open source licence.
 
+We always open source the original open source project in accordance with the license of the original open source project before translation, and the information of the original English project or the original author will be indicated in the following sections.
+
 If you have any questions about this, please read the LICENCE section below.
 
  
