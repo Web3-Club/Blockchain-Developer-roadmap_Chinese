@@ -136,6 +136,15 @@
 特别感谢我们的[Premium Sponser](https://github.com/Web3-Club/Sponsor/blob/main/Premium%20sponsors.md)
 
 <a href="https://abetterweb3.notion.site"><img src="https://user-images.githubusercontent.com/76860915/220133607-dddc3468-0cda-4065-bce3-3b275dfe6ad1.png" alt="abetterweb3">
+
+# ⚠️ 免责声明
+
+The organization that developed this object, "Web3Club", is currently a non-profit open source community, not a company or corporationand.
+
+All translations of the project were developed by members and contributors to the project, and any content in the project is protected by an open source licence.
+
+If you have any questions about this, please read the LICENCE section below.
+
  
 ## 📖 LICENCE
 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)<br>
