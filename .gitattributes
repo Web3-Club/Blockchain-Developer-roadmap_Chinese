@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+
+*.jpg binary
+*.png binary
+*.gif binary
+
+
+*.md linguist-language=Markdown
+
+*.gitignore linguist-language=conf
+*.gitattributes linguist-language=conf
