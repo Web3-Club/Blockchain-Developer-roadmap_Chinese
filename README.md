@@ -15,7 +15,7 @@
 ## 📃 部分预览
 - 在线浏览
 
-网页版Wiki(已基本施工完毕)： [Web3-Wiki](https://web3wiki.site/)
+网页版Wiki： [Web3-Wiki](https://web3wiki.site/)
 
 - 文档
 
@@ -100,7 +100,6 @@
      
 
 ## 💪🏻 更新计划
- - [ ] pdf 增加目录 （感谢 [Jface](https://github.com/Jface001) 的建议）
  - [ ] 视频版 (正在筹划中......)
  - [x] markdown版 可见[web3wikidocs](https://github.com/Web3-Club/Web3wiki-Website/tree/main/web3wiki_mkdocs/docs) 
  - [x] 网页wiki版 （正在建设中 内容初步制作完成 ）[web3wiki.site](https://web3wiki.site/)
