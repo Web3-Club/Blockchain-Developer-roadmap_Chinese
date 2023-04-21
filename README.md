@@ -109,7 +109,7 @@
 请到[issues](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/issues)处提出。
 
 
-## 😄 申请加入中国Web3社区
+## 😄 申请加入中国Web3知识社区
 发邮件到 ``web3club@email.cn``回答以下问题：
 
 1. 发送你的联系方式（微信、Telegram），GitHub主页链接
