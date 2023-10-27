@@ -122,16 +122,6 @@
 请到[issues](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese/issues)处提出。
 
 
-## 😄 申请加入中国Web3知识社区
-发邮件到 ``web3clubCN@outlook.com``回答以下问题：
-
-1. 发送你的联系方式（微信、Telegram），GitHub主页链接
-2. 加入理由
-3. 对Web3相关技术未来的个人期望？
-4. 个人技术栈有哪些？
-5. 是否有在社区和项目做贡献的经历？
-
-字数不限，表述清楚并全部回答 即可
 
 ## ❤️ 项目贡献者
 
