@@ -2,6 +2,19 @@
 [![开源授权](https://img.shields.io/github/license/Web3-Club/Blockchain-Developer-roadmap_Chinese?style=flat-square)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)  [![GitHub stars](https://img.shields.io/github/stars/Web3-Club/Blockchain-Developer-roadmap_Chinese.svg?style=social&label=Stars)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)   [![GitHub watchers](https://img.shields.io/github/watchers/Web3-Club/Blockchain-Developer-roadmap_Chinese.svg?style=social&label=Watch)](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)
 
 
+
+
+[![Group][badge]][telegram-url]
+[![Twitter Group][twitter-badge]][twitter-url]
+
+[telegram-url]: https://t.me/web3clubCN
+[twitter-url]: https://twitter.com/web3clubCN
+
+
+
+
+
+
 ## 🗒 项目简介
 区块链工程师学习路线中文翻译，该项目的思维导图和文档翻译自<br>
 [全GitHub所有项目中Star数排名](https://github.com/search?q=stars%3A%3E200000&type=Repositories)第六位的[Develop Roadmap](https://roadmap.sh)项目的区块链工程师([Blockchain Developer](https://roadmap.sh/blockchain)) 部分。
