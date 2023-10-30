@@ -131,10 +131,7 @@
 ## 💐 赞助我们 
 ### 通过Donate3
 
-<a href="https://www.donate3.xyz/donateTo?cid=bafkreif5ecvwp7vanir2geib43nws7zvaac46rvlryzwwm47knutcv6xee">
-<img src="https://github.com/Web3-Club/solidity-by-example_Chinese/assets/76860915/22d0fc03-ff8e-405e-942e-b6d1675b2d60" alt="Donate3">
-
-
+<a href="https://www.donate3.xyz/donateTo?cid=bafkreif5ecvwp7vanir2geib43nws7zvaac46rvlryzwwm47knutcv6xee" target="_blank"><img src="https://www.donate3.xyz/Donate3ToMe.svg" alt="Donate3 To Me"></a>
 
 您的姓名或昵称将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。
 感谢您对我们社区未来健康发展所作出的支持！
