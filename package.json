@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-developer-roadmap_chinese",
+  "version": "1.0.5",
+  "description": "区块链工程师学习路线 ｜ GitHub Star数第六项目 Develop Roadmap 区块链工程师 部分｜@Web3-Club",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": "blockchain,developer"
+  "author": "Yanbo",
+  "license": "CC-BY-SA-4.0 license"
+}
