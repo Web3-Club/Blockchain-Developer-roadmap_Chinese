@@ -2,7 +2,9 @@
   "name": "blockchain-developer-roadmap_chinese",
   "version": "1.0.5",
   "description": "区块链工程师学习路线 ｜ GitHub Star数第六项目 Develop Roadmap 区块链工程师 部分｜@Web3-Club",
-  "main": "index.js",
+  "main": ".dist/index.js",
+  "repository": {
+    "url":"https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese"},
   
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
